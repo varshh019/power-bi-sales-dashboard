@@ -1,5 +1,6 @@
 # Ignore the generated CSV data file
 sales_data.csv
+product_details.csv
 
 # Ignore Python cache files
 __pycache__/
